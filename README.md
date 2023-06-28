@@ -1,2 +1,1 @@
-This is the main README file.
-commit
+git coding is amazing
